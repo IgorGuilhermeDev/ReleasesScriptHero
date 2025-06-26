@@ -18,3 +18,5 @@
 - Adição de uma nova sprite para os inimigos
 - Mudanças de estilo
 - Novo método de movimento `moveAcross`
+## v1.5.0:
+- 2 Capítulo

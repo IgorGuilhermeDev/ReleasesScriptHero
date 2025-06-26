@@ -18,3 +18,5 @@
 - Added a new sprite for enemies
 - Style changes
 - New movement method: `moveAcross`
+## v1.5.0:
+- 2 chapter
